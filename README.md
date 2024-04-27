@@ -8,3 +8,4 @@
  - 개발도구 : Unity
  - 개발언어 : C#
 ## 영상 및 기술서
+ -동영상 : https://youtu.be/huvhtLa_c-E
