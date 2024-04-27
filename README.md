@@ -9,3 +9,4 @@
  - 개발언어 : C#
 ## 영상 및 기술서
  -동영상 : https://youtu.be/huvhtLa_c-E
+ -기술서 : https://docs.google.com/document/d/1o9ib15fA2BEm3VnOAcdFdHYHYjswqVRQK_L_maOIqEc/edit?pli=1
